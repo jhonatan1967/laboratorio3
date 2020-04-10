@@ -7,4 +7,4 @@ addons:
   sonarcloud: true
 
 script:
-  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=jhonatan1967 -Dsonar.projectKey=jhonatan1967_laboratorio3 -Dsonar.sources='./app' -X
+  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=jhonatan1967 -Dsonar.projectKey=laboratorio3 -Dsonar.sources='./app' -X
