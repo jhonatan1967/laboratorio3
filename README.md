@@ -13,3 +13,5 @@ Sonar  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=laboratorio3&metric=code_smells)](https://sonarcloud.io/dashboard?id=laboratorio3)
 
 [![Duplicated Lines Density](https://sonarcloud.io/api/project_badges/measure?project=laboratorio3&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=laboratorio3)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=laboratorio3&metric=coverage)](https://sonarcloud.io/dashboard?id=laboratorio3) 
