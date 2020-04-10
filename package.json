@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jhonatan1967/laboratorio3/issues"
   },
-  "homepage": "https://github.com/jhonatan1967/laboratorio3#readme"
+  "homepage": "https://github.com/jhonatan1967/laboratorio3#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "save-dev": "0.0.1-security"
+  }
 }
