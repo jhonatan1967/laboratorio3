@@ -7,4 +7,5 @@ addons:
   sonarcloud: true
 
 script:
+  -npm run cover
   - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=jhonatan1967 -Dsonar.projectKey=laboratorio3 -Dsonar.sources='./app' -X
